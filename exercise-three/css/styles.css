@@ -1,0 +1,107 @@
+body {
+    background-color: cornflowerblue;
+}
+
+@font-face {
+    font-family: "ASAP Condensed";
+    src: url(../../assets/fonts/asap-condensed/asap-condensed-regular.ttf);
+}
+
+@font-face {
+    font-family: "Black Ops One";
+    src: url(../../assets/fonts/black-ops-one/black-ops-one-regular.ttf);
+}
+
+@font-face {
+    font-family: "Bungee Tint";
+    src: url(../../assets/fonts/bungee-tint/bungee-tint-regular.ttf);
+}
+
+@font-face {
+    font-family: "Hammersmith One";
+    src: url(../../assets/fonts/hammersmith-one/hammersmith-one-regular.ttf);
+}
+
+@font-face {
+    font-family: "Matemasie";
+    src: url(../../assets/fonts/matemasie/matemasie-regular.ttf);
+}
+
+@font-face {
+    font-family: "Saria Condensed";
+    src: url(../../assets/fonts/saria-condensed/saria-condensed-regular.ttf);
+}
+
+@font-face {
+    font-family: "Sorts Mill Goudy";
+    src: url(../../assets/fonts/sorts-mill-goudy/sorts-mill-goudy-italic.ttf);
+}
+
+@font-face {
+    font-family: "Spicy Rice";
+    src: url(../../assets/fonts/spicy-rice/spicy-rice-regular.ttf);
+}
+
+@font-face {
+    font-family: "Yellowtail";
+    src: url(../../assets/fonts/yellowtail-regular.ttf);
+}
+
+p {
+    font-family: "Saria Condesned", sans-serif;
+}
+
+.type1 {
+    font-size: 30px;
+    font-family: "Bungee Tint", sans-serif;
+    text-align: center;
+}
+
+.type2 {
+    font-family: "Hammersmith One", sans-serif;
+    font-weight: 700;
+}
+
+.type3 {
+    font-family: "Matemasie", sans-serif;
+    text-align: right;
+}
+
+.type4 {
+    font-family: "Yellowtail", cursive;
+    text-align: center;
+}
+
+.type5 {
+    font-family: "Black Ops One", sans-serif;
+}
+
+.type6 {
+    font-family: "Sorts Mill Goudy", serif;
+    letter-spacing: 10px;
+}
+
+.type7 {
+    font-family: "Spicy Rice", sans-serif;
+}
+
+.type8 {
+    color: white;
+    font-size: 1.25em;
+    font-family: "Hammersmith One", sans-serif;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #98daf5;
+    text-align: center;
+}
+
+.type11 {
+    color: #130077;
+    font-family: "Gill Sans", sans-serif;
+}
