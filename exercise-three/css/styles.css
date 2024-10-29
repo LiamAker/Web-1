@@ -4,7 +4,7 @@ body {
 
 @font-face {
     font-family: "ASAP Condensed";
-    src: url(../../assets/fonts/asap-condensed/asap-condensed-regular.ttf);
+    src: URL(../../../../main/exercise-three/assets/fonts/asap-condensed/asap-condensed-regular.ttf);
 }
 
 @font-face {
