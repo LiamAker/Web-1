@@ -2,51 +2,6 @@ body {
     background-color: darkblue;
 }
 
-@font-face {
-    font-family: "ASAP Condensed";
-    src: URL(../../../../main/exercise-three/assets/fonts/asap-condensed/asap-condensed-regular.ttf);
-}
-
-@font-face {
-    font-family: "Black Ops One";
-    src: url(../../assets/fonts/black-ops-one/black-ops-one-regular.ttf);
-}
-
-@font-face {
-    font-family: "Bungee Tint";
-    src: url(../../assets/fonts/bungee-tint/bungee-tint-regular.ttf);
-}
-
-@font-face {
-    font-family: "Hammersmith One";
-    src: url(../../assets/fonts/hammersmith-one/hammersmith-one-regular.ttf);
-}
-
-@font-face {
-    font-family: "Matemasie";
-    src: url(../../assets/fonts/matemasie/matemasie-regular.ttf);
-}
-
-@font-face {
-    font-family: "Saira Condensed";
-    src: url(../../assets/fonts/saira-condensed/saira-condensed-regular.ttf);
-}
-
-@font-face {
-    font-family: "Sorts Mill Goudy";
-    src: url(../../assets/fonts/sorts-mill-goudy/sorts-mill-goudy-italic.ttf);
-}
-
-@font-face {
-    font-family: "Spicy Rice";
-    src: url(../../assets/fonts/spicy-rice/spicy-rice-regular.ttf);
-}
-
-@font-face {
-    font-family: "Yellowtail";
-    src: url(../../assets/fonts/yellowtail-regular.ttf);
-}
-
 p {
     font-family: "Saira Condensed", sans-serif;
     color: white;
