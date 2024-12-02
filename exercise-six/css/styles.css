@@ -1,0 +1,80 @@
+.float-background {
+    background-color: yellow;
+    width: 800px;
+    height: 1100px;
+    margin: 0 auto;
+}
+
+.container-one {
+    background-color: lime;
+    width: 600px;
+    height: 200px;
+    margin: 50px 100px;
+}
+
+.container-two {
+    background-color: darkcyan;
+    width: 600px;
+    height: 375px;
+    margin: 50px 100px;
+}
+
+.container-three {
+    background-color: saddlebrown;
+    width: 600px;
+    height: 300px;
+    margin: 50px 100px;
+}
+
+.aqua-block {
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    float: left;
+}
+
+.beige-block {
+    background-color: burlywood;
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    float: right;
+}
+
+.white-block {
+    background-color: antiquewhite;
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    float: left;
+}
+
+.black-block {
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    float: right;
+}
+
+.orange-block {
+    background-color: orange;
+    width: 550px;
+    height: 150px;
+    margin: 25px;
+    clear: both;
+}
+
+.purple-block {
+    background-color: purple;
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    float: left;
+}
+
+.text {
+    color: white;
+    padding: 25px;
+}
